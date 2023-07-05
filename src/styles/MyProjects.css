@@ -1,0 +1,15 @@
+th,
+td > * {
+  margin: 5px;
+}
+
+iframe {
+  width: 95%;
+  aspect-ratio: 16 / 9;
+}
+
+@media (width <= 500px) {
+  h4 {
+    font-size: small;
+  }
+}
