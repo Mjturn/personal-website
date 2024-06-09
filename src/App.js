@@ -7,7 +7,7 @@ import ContactMe from "./sections/ContactMe";
 
 function App() {
   return (
-    <div>
+    <div id="page-container">
       <Navbar />
       <MyProjects />
       <AboutMe />

@@ -16,3 +16,9 @@ a {
 a:hover {
   color: orange;
 }
+
+#page-container {
+    height: 100vh;
+    scroll-snap-type: y mandatory;
+    overflow-y: scroll;
+}
